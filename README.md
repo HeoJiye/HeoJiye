@@ -10,21 +10,16 @@
   </p>
   <p>
   	<h4>🛠 Skill 🛠</h4>
-  	<h5>💡 used as the main</h5>
     <p align="center" display="inline-block">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+      <br>
       <img src="https://img.shields.io/badge/React-161A3B?style=for-the-badge&logo=React&logoColor=61DAFB">
       <br>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">
       <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
-    </p>
-    <h5>💡 used at least once</h5>
-    <p align="center" display="inline-block">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    </p>
+  </p>
   </p>
 
 <br>
