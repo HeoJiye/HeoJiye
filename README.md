@@ -21,6 +21,15 @@
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">
       <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
   </p>
+   <p>
+  	<h4>📚 package</h4>
+    <p align="center" display="inline-block">
+        <a href="https://www.npmjs.com/package/react-screen-with-fixed-resolution">
+          react-screen-with-fixed-resolution
+          <img src="https://shields.io/badge/npm-v1.1.0-blue?logo=npm&style=plastic">
+        </a>
+    </p>
+  </p>
   </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
