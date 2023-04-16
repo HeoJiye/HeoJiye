@@ -20,6 +20,9 @@
       <br>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">
       <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </p>
    <p>
   	<h4>📚 package</h4>
