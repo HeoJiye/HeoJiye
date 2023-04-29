@@ -4,7 +4,7 @@
 
   <h3>👋 안녕하세요! 허지예입니다</h3>
   <p>
-    저는 프론트엔드를 공부하고 있는 대학생입니다!
+    저는 웹과 게임을 공부하고 있는 대학생입니다!
     <br>
     현재 컴퓨터학과 4학년에 재학중이며, 함께 성장하는 개발자입니다.
   </p>
@@ -19,7 +19,9 @@
       <br>
       <br>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">
+      <br>
       <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
+      <img src="https://img.shields.io/badge/Photon-004088?style=for-the-badge&logo=Unity&logoColor=white">
       <br>
       <br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -28,8 +30,8 @@
   	<h4>📚 package</h4>
     <p align="center" display="inline-block">
         <a href="https://www.npmjs.com/package/react-screen-with-fixed-resolution">
-          react-screen-with-fixed-resolution
           <img src="https://shields.io/badge/npm-v1.1.0-blue?logo=npm&style=plastic">
+          react-screen-with-fixed-resolution
         </a>
     </p>
   </p>
