@@ -29,13 +29,10 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </p>
    <p>
-  	<h4>📚 package</h4>
-    <p align="center" display="inline-block">
-        <a href="https://www.npmjs.com/package/react-screen-with-fixed-resolution">
-          <img src="https://shields.io/badge/npm-v1.1.0-blue?logo=npm&style=plastic">
-          react-screen-with-fixed-resolution
-        </a>
-    </p>
+  	<h4>📚 Activity</h4>
+    <li>(2022.03 ~ 2023.02) 동덕여대 게임 개발 동아리 NPC 회장</li>
+    <li>(2022.08 ~ 2023.07) 게임 개발 튜토리얼 IT 교재 집필 <a href="https://tumblbug.com/cpu-books-tuto">[텀블벅 판매 링크]</a></li>
+    <li>(2023.07 ~ ) 네이버 부스트캠프 웹・모바일 8기 웹 풀스택 과정</li>
   </p>
   </p>
 
